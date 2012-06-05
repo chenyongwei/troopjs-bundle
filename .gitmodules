@@ -19,3 +19,6 @@
 [submodule "src/lib/wire"]
 	path = src/lib/wire
 	url = https://github.com/troopjs/wire.git
+[submodule "src/lib/domready"]
+	path = src/lib/domready
+	url = https://github.com/troopjs/domReady.git
