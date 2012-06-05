@@ -16,3 +16,6 @@
 [submodule "build/lib/rjs"]
 	path = build/lib/rjs
 	url = git@github.com:troopjs/r.js.git
+[submodule "src/lib/wire"]
+	path = src/lib/wire
+	url = https://github.com/troopjs/wire.git
